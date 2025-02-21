@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <h1 className='bg-green-500'>New starting with git and React</h1>
-      <h2 className='bg-yellow-600'>Tailwind test</h2>
+      <h2 className>Tailwind test</h2>
     </>
   )
 }
