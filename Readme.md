@@ -1,1 +1,1 @@
-hello stating react
+Everything starts with the base
